@@ -14,13 +14,13 @@ author-pic: adam-face.jpg
 about-author: My name is Adam Neilson. I’m a full-time adventure travel blogger and photographer who’s been exploring the world for over 2 years.
 
 # Contact links
-email: # Add your Email address
-phone: # Add your Phone number
-website: # Add your website, do not add http://
-linkedin: # Add your Linkedin handle
-github: artemsheludko # Add your Github handle
-twitter: '@artemsheludko_' # Add your Twitter handle
-facebook: # Add your Facebook handle
+email: # 添加你的电子邮箱
+phone: # 添加你的手机号码
+website: # 添加你的网站, 不需要添加 http://
+linkedin: # 添加你的linkedin
+github: artemsheludko # 更改为你的github ID
+twitter: '@artemsheludko_' # 添加你的Twitter ID
+facebook: # 添加你的Facebook ID
 instagram: # Add your Instagram handle
 pinterest: # Add your Pinterest handle
 
