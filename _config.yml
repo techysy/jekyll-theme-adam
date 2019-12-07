@@ -8,29 +8,29 @@ permalink: ':title/'
 baseurl: "/adam-blog" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
-# Author settings
-author: Adam Neilson # add your name
-author-pic: adam-face.jpg
+# Author settings 作者设置
+author: 余师洋 # add your name
+author-pic: adam-face.jpg # 头像
 about-author: My name is Adam Neilson. I’m a full-time adventure travel blogger and photographer who’s been exploring the world for over 2 years.
 
-# Contact links
+# Contact links 社交账号
 email: # 添加你的电子邮箱
 phone: # 添加你的手机号码
 website: # 添加你的网站, 不需要添加 http://
 linkedin: # 添加你的linkedin
-github: artemsheludko # 更改为你的github ID
-twitter: '@artemsheludko_' # 添加你的Twitter ID
+github:  # 更改为你的github ID
+twitter:  # 添加你的Twitter ID 格式'@xxxxxx'
 facebook: # 添加你的Facebook ID
-instagram: # Add your Instagram handle
-pinterest: # Add your Pinterest handle
+instagram: # 添加你的 Instagram ID
+pinterest: # 添加你的 Pinterest ID
 
 # Newsletter
 mailchimp: # Add your MailChimp form identifier.
 
-# Disqus
-discus_identifier: mr-brown # Add your discus identifier
+# Disqus 评论
+discus_identifier: shiyangyu # Add your discus identifier
 
-# Tracker
+# Tracker 追踪
 analytics: # Google Analytics
 
 # Paginate
@@ -40,6 +40,7 @@ paginate_path: /page:num/
 # Build settings
 markdown: kramdown
 
+#插件
 plugins:
   - jekyll-paginate
   - jekyll-feed
