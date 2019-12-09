@@ -40,7 +40,7 @@ paginate_path: /page:num/
 # Build settings
 markdown: kramdown
 
-#插件
+# 插件
 plugins:
   - jekyll-paginate
   - jekyll-feed
